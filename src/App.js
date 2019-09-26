@@ -108,7 +108,7 @@ class Form extends React.Component {
             Save
           </Button>
         </form>
-        {error}
+       
         {area}
       </div>
     );
